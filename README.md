@@ -48,14 +48,21 @@ The database consists of experimental and literature-based NSM CFRP strip specim
 
 The dataset includes parameters such as:
 
-* Bonded length
-* CFRP width
-* CFRP thickness
-* Aspect ratio
-* Bonded area
-* Concrete strength
-* Epoxy properties
-* CFRP material properties
+- Concrete Compressive Strength
+- Epoxy Shear Strength
+- FRP Tensile Strength
+- FRP Thickness
+- FRP Width
+- Groove Thickness
+- Groove Width
+- FRP Perimeter of the Failure Plane
+- Perimeter Length of Groove
+- Aspect Ratio of FRP Cross-Section
+- FRP Cross-Sectional Area
+- Bonded Area of FRP Strip
+- Bonded Area of the Groove
+- Bonded Length
+- Edge Distance
 
 The framework predicts:
 
