@@ -97,6 +97,7 @@ NSM_FRP_ML_Pipeline/
 ├── NSM_FRP_ML_Pipeline.py
 ├── NSM_FRP_Strength_Failure_Dataset.xlsx
 ├── README.md
+```
 
 ---
 
@@ -107,80 +108,100 @@ Clone the repository:
 ```bash
 git clone https://github.com/MuhammadHuzaifaYounusToor/NSM_FRP_ML_Pipeline.git
 cd NSM_FRP_ML_Pipeline
-
+```
 
 Install required packages:
+
+```bash
 pip install pandas numpy scikit-learn xgboost lightgbm shap matplotlib openpyxl
+```
 
+---
 
-Usage
+## Usage
 
 Open the notebook:
+
+```bash
 jupyter notebook NSM_FRP_ML_Pipeline.ipynb
+```
 
 Run the notebook sequentially to:
 
-Train machine learning models
-Generate ensemble predictions
-Evaluate performance
-Visualize results
-Perform SHAP-based interpretation
+- Train machine learning models
+- Generate ensemble predictions
+- Evaluate performance
+- Visualize results
+- Perform SHAP-based interpretation
 
+---
 
-Output Visualizations
+## Output Visualizations
 
 The framework generates:
 
-Actual vs Predicted plots
-Confusion matrices
-Cross-validation comparison plots
-Feature importance plots
-SHAP summary plots
-Ensemble model comparison figures
+- Actual vs Predicted plots
+- Confusion matrices
+- Cross-validation comparison plots
+- Feature importance plots
+- SHAP summary plots
+- Ensemble model comparison figures
 
-Research Contribution
+---
 
-This framework addresses limitations of traditional empirical bond strength equations by integrating machine learning and explainable AI techniques.
+## Research Contribution
+
+This framework addresses limitations of traditional empirical bond strength equations by integrating machine learning and SHAP-based interpretability techniques.
 
 The proposed framework:
 
-Improves prediction accuracy
-Handles nonlinear relationships
-Simultaneously predicts strength and failure mode
-Provides interpretable predictions using SHAP
-Offers a flexible framework for future NSM CFRP studies
+- Improves prediction accuracy
+- Handles nonlinear relationships
+- Simultaneously predicts strength and failure mode
+- Provides interpretable predictions using SHAP
+- Offers a flexible framework for future NSM CFRP studies
 
-Applications
+---
+
+## Applications
 
 Potential applications include:
 
-Structural retrofitting assessment
-FRP bond behavior prediction
-Structural health monitoring research
-Data-driven structural engineering studies
-Explainable AI in civil engineering
+- Structural retrofitting assessment
+- FRP bond behavior prediction
+- Structural health monitoring research
+- Data-driven structural engineering studies
+- Machine learning applications in civil engineering
 
+---
 
-Author
+## Author
 
-Muhammad Huzaifa Younus Toor
-M.S. Structural Engineering
+Muhammad Huzaifa Younus Toor  
+M.S. Structural Engineering  
 Korea National University of Transportation (KNUT)
 
-Research Interests:
+### Research Interests
 
-Structural Health Monitoring (SHM)
-Acoustic Emission (AE)
-FRP Strengthening Systems
-Machine Learning in Structural Engineering
-Digital Twin Frameworks
-Explainable Artificial Intelligence (XAI)
+- Structural Health Monitoring (SHM)
+- Acoustic Emission (AE)
+- FRP Strengthening Systems
+- Machine Learning in Structural Engineering
+- Digital Twin Frameworks
+- SHAP-Based Model Interpretability
 
-GitHub: https://github.com/MuhammadHuzaifaYounusToor
+GitHub:  
+https://github.com/MuhammadHuzaifaYounusToor
 
+---
 
-License
+## License
+
 This project is intended for academic and research purposes.
 
-Acknowledgment
-This research was supported by the National Research Foundation of Korea (NRF) under a Grant funded by the Korea government (MSIT) (No. RS-2022-NR070123).
+---
+
+## Acknowledgment
+
+This research was supported by the National Research Foundation of Korea (NRF) under a grant funded by the Korea government (MSIT)  
+(No. RS-2022-NR070123).
