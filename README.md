@@ -184,11 +184,13 @@ Korea National University of Transportation (KNUT)
 ### Research Interests
 
 - Structural Health Monitoring (SHM)
+- Structural Dynamics
 - Acoustic Emission (AE)
-- FRP Strengthening Systems
 - Machine Learning in Structural Engineering
 - Digital Twin Frameworks
-- SHAP-Based Model Interpretability
+- Internet of Things (IoT)
+- Non Destructive Testing
+- Fiber-Reinforced Polymer (FRP) retrofitting technology
 
 GitHub:  
 https://github.com/MuhammadHuzaifaYounusToor
@@ -203,5 +205,4 @@ This project is intended for academic and research purposes.
 
 ## Acknowledgment
 
-This research was supported by the National Research Foundation of Korea (NRF) under a grant funded by the Korea government (MSIT)  
-(No. RS-2022-NR070123).
+This research was supported by the National Research Foundation of Korea (NRF) under a grant funded by the Korea government (MSIT) (No. RS-2022-NR070123).
