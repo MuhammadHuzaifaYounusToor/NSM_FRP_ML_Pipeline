@@ -84,6 +84,96 @@ The notebook follows the workflow below:
 ## Repository Structure
 
 ```text
+NSM_FRP_ML_Pipeline/
+│
 ├── NSM_FRP_ML_Pipeline.ipynb
+├── NSM_FRP_ML_Pipeline.py
 ├── NSM_FRP_Strength_Failure_Dataset.xlsx
 ├── README.md
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/MuhammadHuzaifaYounusToor/NSM_FRP_ML_Pipeline.git
+cd NSM_FRP_ML_Pipeline
+
+
+Install required packages:
+pip install pandas numpy scikit-learn xgboost lightgbm shap matplotlib openpyxl
+
+
+Usage
+
+Open the notebook:
+jupyter notebook NSM_FRP_ML_Pipeline.ipynb
+
+Run the notebook sequentially to:
+
+Train machine learning models
+Generate ensemble predictions
+Evaluate performance
+Visualize results
+Perform SHAP-based interpretation
+
+
+Output Visualizations
+
+The framework generates:
+
+Actual vs Predicted plots
+Confusion matrices
+Cross-validation comparison plots
+Feature importance plots
+SHAP summary plots
+Ensemble model comparison figures
+
+Research Contribution
+
+This framework addresses limitations of traditional empirical bond strength equations by integrating machine learning and explainable AI techniques.
+
+The proposed framework:
+
+Improves prediction accuracy
+Handles nonlinear relationships
+Simultaneously predicts strength and failure mode
+Provides interpretable predictions using SHAP
+Offers a flexible framework for future NSM CFRP studies
+
+Applications
+
+Potential applications include:
+
+Structural retrofitting assessment
+FRP bond behavior prediction
+Structural health monitoring research
+Data-driven structural engineering studies
+Explainable AI in civil engineering
+
+
+Author
+
+Muhammad Huzaifa Younus Toor
+M.S. Structural Engineering
+Korea National University of Transportation (KNUT)
+
+Research Interests:
+
+Structural Health Monitoring (SHM)
+Acoustic Emission (AE)
+FRP Strengthening Systems
+Machine Learning in Structural Engineering
+Digital Twin Frameworks
+Explainable Artificial Intelligence (XAI)
+
+GitHub: https://github.com/MuhammadHuzaifaYounusToor
+
+
+License
+This project is intended for academic and research purposes.
+
+Acknowledgment
+This research was supported by the National Research Foundation of Korea (NRF) under a Grant funded by the Korea government (MSIT) (No. RS-2022-NR070123).
