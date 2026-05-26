@@ -1,9 +1,6 @@
 # A-Data-Driven-Framework-for-Predicting-Bond-Strength-and-Failure-Modes-in-NSM-CFRP-Strips
 This repository presents a machine learning–based framework for predicting the bond strength and failure modes of Near-Surface Mounted (NSM) CFRP strip systems in concrete structures using ensemble learning and explainable artificial intelligence (XAI).
 ---
-<p align="center">
-  <img src="figures/framework.png" width="800">
-</p>
 
 ## Overview
 
