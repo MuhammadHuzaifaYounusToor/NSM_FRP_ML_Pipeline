@@ -4,7 +4,7 @@ This repository presents a machine learning–based framework for predicting the
 
 ## Overview
 
-Near-Surface Mounted (NSM) CFRP strengthening systems are widely used for retrofitting reinforced concrete structures. However, predicting bond behavior and governing failure mechanisms remains challenging because of the complex interaction between CFRP strips, adhesive layers, and surrounding concrete.
+Near-surface mounted (NSM) carbon fiber-reinforced polymer (CFRP) strips are widely used for strengthening reinforced concrete structures due to their superior bond performance and durability; however, accurate prediction of bond strength remains challenging because multiple failure mechanisms govern their behavior. This study investigates the bond performance of 130 NSM CFRP specimens, including 9 specimens tested experimentally and 121 collected from the literature. The experimental program consisted of pull-out tests designed to promote interface-controlled failure, where all tested specimens exhibited debonding between the CFRP and adhesive (DFA) without concrete damage. The results showed that CFRP cross-sectional dimensions, bonded area, and aspect ratio (β) significantly influence bond strength and failure behavior. A comparative evaluation of five widely used bond strength models revealed considerable prediction errors due to their inability to distinguish between different failure modes and incorporate key governing parameters. To address these limitations, a data-driven modeling framework based on an ensemble of tree-based machine learning models was developed to simultaneously predict bond strength and failure mode. The proposed model achieved an accuracy of 84.62%, along with an average experimental-to-predicted ratio of 0.995, a standard deviation of 0.079, a coefficient of variation of 0.079, and a coefficient of determination (R²) of 0.967. The results demonstrate that the proposed framework provides more accurate and consistent predictions of bond behavior than existing models, while also reliably identifying governing failure mechanisms, making it a practical tool for the analysis and design of NSM CFRP-strengthened systems.
 
 This repository provides a complete machine learning pipeline for:
 
@@ -66,7 +66,7 @@ The dataset includes parameters such as:
 
 The framework predicts:
 
-1. Ultimate bond strength
+1. Bond strength
 2. Governing failure mode
 
 ---
@@ -94,7 +94,6 @@ The notebook follows the workflow below:
 NSM_FRP_ML_Pipeline/
 │
 ├── NSM_FRP_ML_Pipeline.ipynb
-├── NSM_FRP_ML_Pipeline.py
 ├── NSM_FRP_Strength_Failure_Dataset.xlsx
 ├── README.md
 ```
