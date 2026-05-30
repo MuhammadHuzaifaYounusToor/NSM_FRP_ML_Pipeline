@@ -94,6 +94,7 @@ The notebook follows the workflow below:
 NSM_FRP_ML_Pipeline/
 │
 ├── NSM_FRP_ML_Pipeline.ipynb
+├── NSM_FRP_ML_Pipeline.py
 ├── NSM_FRP_Strength_Failure_Dataset.xlsx
 ├── README.md
 ```
