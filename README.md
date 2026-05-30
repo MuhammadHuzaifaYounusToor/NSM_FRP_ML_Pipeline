@@ -175,7 +175,11 @@ Potential applications include:
 
 ---
 
-## Author
+## Authors
+
+Muhammad Huzaifa Younus Toor, Soo-Yeon Seo, and Hai Van Tran
+
+### Repository Maintainer
 
 Muhammad Huzaifa Younus Toor  
 M.S. Structural Engineering  
