@@ -1,17 +1,16 @@
 # A Data-Driven Framework for Predicting Bond Strength and Failure Modes in NSM CFRP Strips
 
-## 📄 Associated Journal Article
+## 📄 [Associated Journal Article](https://doi.org/10.1016/j.conbuildmat.2026.147334)
 
 This repository accompanies the following peer-reviewed journal publication:
 
-**Toor, M. H. Y., Seo, S.-Y., & Tran, H. V.**
+**Toor, M. H. Y., Seo, S., & Tran, H. V.**
 
-*A data-driven framework for predicting bond strength and failure modes in NSM CFRP strips*
+*A data-driven framework for predicting bond strength and failure modes in NSM CFRP strips.*
 
-**Construction and Building Materials (2026)**
+**Construction and Building Materials, 538, 147334 (2026)**
 
-DOI:
-https://doi.org/10.1016/j.conbuildmat.2026.147334
+**DOI:** https://doi.org/10.1016/j.conbuildmat.2026.147334
 ---
 
 ## Overview
