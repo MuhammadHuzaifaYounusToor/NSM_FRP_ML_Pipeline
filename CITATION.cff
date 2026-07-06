@@ -1,6 +1,9 @@
 cff-version: 1.2.0
-title: A data-driven framework for predicting bond strength and failure modes in NSM CFRP strips
-message: If you use this repository, please cite the associated journal article.
+
+title: "A data-driven framework for predicting bond strength and failure modes in NSM CFRP strips"
+
+message: "If you use this repository, please cite the associated journal article."
+
 authors:
   - family-names: Toor
     given-names: Muhammad Huzaifa Younus
@@ -20,9 +23,9 @@ preferred-citation:
       given-names: Soo-Yeon
     - family-names: Tran
       given-names: Hai Van
-  title: A data-driven framework for predicting bond strength and failure modes in NSM CFRP strips
-  journal: Construction and Building Materials
+  title: "A data-driven framework for predicting bond strength and failure modes in NSM CFRP strips"
+  journal: "Construction and Building Materials"
   year: 2026
   volume: 538
   start: 147334
-  https://doi.org/10.1016/j.conbuildmat.2026.147334
+  doi: 10.1016/j.conbuildmat.2026.147334
