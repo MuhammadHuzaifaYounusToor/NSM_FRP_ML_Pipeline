@@ -6,7 +6,7 @@ This repository accompanies the following peer-reviewed journal publication:
 
 **Toor, M. H. Y., Seo, S.-Y., & Tran, H. V.**
 
-*A Data-Driven Framework for Predicting Bond Strength and Failure Modes in NSM CFRP Strips Using Ensemble Learning and Explainable Artificial Intelligence.*
+*A data-driven framework for predicting bond strength and failure modes in NSM CFRP strips*
 
 **Construction and Building Materials (2026)**
 
@@ -229,17 +229,16 @@ If you use this repository, dataset, code, or any part of this work in your rese
 
 ### APA
 
-Toor, M. H. Y., Seo, S.-Y., & Tran, H. V. (2026).
-*A Data-Driven Framework for Predicting Bond Strength and Failure Modes in NSM CFRP Strips Using Ensemble Learning and Explainable Artificial Intelligence.*
-Construction and Building Materials.
-https://doi.org/10.1016/j.conbuildmat.2026.147334
+Toor, M. H. Y., Seo, S., & Van Tran, H. (2026). A data-driven framework for predicting bond strength and failure modes in NSM CFRP strips. Construction and Building Materials, 538, 147334. https://doi.org/10.1016/j.conbuildmat.2026.147334
 
 ### BibTeX
 
 @article{Toor2026,
-  author = {Muhammad Huzaifa Younus Toor and Soo-Yeon Seo and Hai Van Tran},
-  title = {A Data-Driven Framework for Predicting Bond Strength and Failure Modes in NSM CFRP Strips Using Ensemble Learning and Explainable Artificial Intelligence},
+  author  = {Muhammad Huzaifa Younus Toor and Soo-Yeon Seo and Hai Van Tran},
+  title   = {A data-driven framework for predicting bond strength and failure modes in NSM CFRP strips},
   journal = {Construction and Building Materials},
-  year = {2026},
-  doi = {10.1016/j.conbuildmat.2026.147334}
+  volume  = {538},
+  pages   = {147334},
+  year    = {2026},
+  doi     = {10.1016/j.conbuildmat.2026.147334}
 }
