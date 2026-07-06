@@ -1,5 +1,17 @@
-# A-Data-Driven-Framework-for-Predicting-Bond-Strength-and-Failure-Modes-in-NSM-CFRP-Strips
-This repository presents a machine learning–based framework for predicting the bond strength and failure modes of Near-Surface Mounted (NSM) CFRP strip systems in concrete structures using ensemble learning and explainable artificial intelligence (XAI).
+# A Data-Driven Framework for Predicting Bond Strength and Failure Modes in NSM CFRP Strips
+
+## 📄 Associated Journal Article
+
+This repository accompanies the following peer-reviewed journal publication:
+
+**Toor, M. H. Y., Seo, S.-Y., & Tran, H. V.**
+
+*A Data-Driven Framework for Predicting Bond Strength and Failure Modes in NSM CFRP Strips Using Ensemble Learning and Explainable Artificial Intelligence.*
+
+**Construction and Building Materials (2026)**
+
+DOI:
+https://doi.org/10.1016/j.conbuildmat.2026.147334
 ---
 
 ## Overview
@@ -210,3 +222,24 @@ This project is intended for academic and research purposes.
 ## Acknowledgment
 
 This research was supported by the National Research Foundation of Korea (NRF) under a grant funded by the Korea government (MSIT) (No. RS-2022-NR070123).
+
+# Citation
+
+If you use this repository, dataset, code, or any part of this work in your research, please cite the associated journal article.
+
+### APA
+
+Toor, M. H. Y., Seo, S.-Y., & Tran, H. V. (2026).
+*A Data-Driven Framework for Predicting Bond Strength and Failure Modes in NSM CFRP Strips Using Ensemble Learning and Explainable Artificial Intelligence.*
+Construction and Building Materials.
+https://doi.org/10.1016/j.conbuildmat.2026.147334
+
+### BibTeX
+
+@article{Toor2026,
+  author = {Muhammad Huzaifa Younus Toor and Soo-Yeon Seo and Hai Van Tran},
+  title = {A Data-Driven Framework for Predicting Bond Strength and Failure Modes in NSM CFRP Strips Using Ensemble Learning and Explainable Artificial Intelligence},
+  journal = {Construction and Building Materials},
+  year = {2026},
+  doi = {10.1016/j.conbuildmat.2026.147334}
+}
